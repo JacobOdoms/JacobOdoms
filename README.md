@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacobOdoms
 - 👀 I’m interested in superluminal communication
 - 🌱 I’m currently learning coding practices
-- 💞️ I’m looking to collaborate on a time machine
+- 💞️ I’m looking to collaborate on a tachyonic anti-telephone
 - 📫 How to reach me ...
 
 <!---
